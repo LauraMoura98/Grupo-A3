@@ -1,5 +1,5 @@
 # Trabalho A3 - MMTES
-Heitor Rodrigues - 972320462 <br>
-Iago Costa - 972310499 <br>
-Kelvin Marlon - 972410919 <br>
-Laura Moura - 972311036
+Analista de Requisitos - Heitor Rodrigues - 972320462 <br>
+Arquiteto Back-End - Iago Costa - 972310499 <br>
+Arquiteto DB - Kelvin Marlon - 972410919 <br>
+Tech Lead - Laura Moura - 972311036 
